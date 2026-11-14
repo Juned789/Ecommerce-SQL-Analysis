@@ -1,0 +1,39 @@
+product_id,product_name,category,price,cost
+1,Wireless Earbuds,Electronics,1999,1200
+2,Smart Watch,Electronics,3499,2200
+3,Power Bank,Electronics,1299,750
+4,Bluetooth Speaker,Electronics,2499,1500
+5,Phone Case,Electronics,399,120
+6,USB-C Cable,Electronics,299,90
+7,Gaming Mouse,Electronics,1499,800
+8,Laptop Stand,Electronics,1199,600
+9,Cotton T-Shirt,Fashion,599,250
+10,Denim Jeans,Fashion,1799,900
+11,Running Shoes,Fashion,2999,1600
+12,Kurta,Fashion,1299,600
+13,Sunglasses,Fashion,999,350
+14,Backpack,Fashion,1499,700
+15,Hoodie,Fashion,1599,750
+16,Air Fryer,Home & Kitchen,5999,3600
+17,Non-stick Pan,Home & Kitchen,1099,550
+18,Bedsheet Set,Home & Kitchen,1499,700
+19,Water Bottle,Home & Kitchen,499,180
+20,LED Lamp,Home & Kitchen,799,350
+21,Mixer Grinder,Home & Kitchen,3299,2000
+22,Face Wash,Beauty,299,110
+23,Moisturiser,Beauty,549,220
+24,Perfume,Beauty,1499,600
+25,Hair Oil,Beauty,349,130
+26,Sunscreen,Beauty,499,190
+27,Lipstick,Beauty,599,220
+28,Python Crash Course,Books,699,380
+29,SQL for Beginners,Books,499,260
+30,Atomic Habits,Books,399,210
+31,Data Science Handbook,Books,899,480
+32,Novel Collection,Books,599,300
+33,Yoga Mat,Sports,799,320
+34,Dumbbell Set,Sports,2499,1400
+35,Football,Sports,899,420
+36,Cricket Bat,Sports,1999,1000
+37,Skipping Rope,Sports,249,80
+38,Badminton Racket,Sports,1299,650

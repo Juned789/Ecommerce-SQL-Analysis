@@ -1,0 +1,4 @@
+table_name,raw_rows,clean_rows
+customers,1050,1000
+orders,5060,5000
+order_items,8683,8591
