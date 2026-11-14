@@ -88,15 +88,7 @@ Raw tables are never modified; clean data goes into new tables.
 3. Push high-margin Beauty and Fashion products with bundles.
 4. Investigate cancellations and returns by category.
 
-## ▶️ How to Run
-```bash
-git clone https://github.com/<your-username>/ecommerce-sql-analysis.git
-cd ecommerce-sql-analysis
-pip install -r requirements.txt
-python data/generate_data.py     # optional: regenerates the CSVs
-python run_project.py            # builds DB, runs SQL, saves results + charts
-```
-To explore manually, open `ecommerce.db` in **DB Browser for SQLite** (free) after running.
+
 
 ## 📊 Charts
 ![Monthly revenue](results/charts/monthly_revenue.png)
@@ -106,10 +98,8 @@ To explore manually, open `ecommerce.db` in **DB Browser for SQLite** (free) aft
 ## 🛠️ Tech Stack
 SQL (SQLite, CTEs, window functions, views) · Python (pandas, matplotlib) · Git/GitHub
 
-## 🚀 Future Improvements
-- Move to **PostgreSQL/MySQL** and add indexes
-- Build a **Power BI / Tableau** dashboard on top of the result tables
-- Add a customer churn prediction model in Python (scikit-learn)
 
 ## 👤 Author
-**<Your Name>** · [LinkedIn](https://linkedin.com/in/your-profile) · [GitHub](https://github.com/your-username)
+**Juned Qureshi**  · [GitHub](https://github.com/juned789)
+
+
